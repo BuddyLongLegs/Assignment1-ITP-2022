@@ -3,7 +3,7 @@
 **Team Members**
 |   Enrollment No.  |   Name   | GithubId |
 |   --------------  |   ----   | -------- |
-|    IEC2021001  |   Mohd. Wael Abrar | BINGBABA |
+|    IEC2021001  |   Mohd. Wael Abrar | BINGABABA |
 |    IEC2021002  |   Anurag Jain | BuddyLongLegs |
 |    IEC2021003  |   Abhishek Rana | abhishekrana2003 |
 |    IEC2021004  |   Ayush Kumar Gupta | ayush9769 |
